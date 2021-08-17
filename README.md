@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KING-JOI
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on not yet but if you want to teach me something i am willing
+- 💞️ I’m looking to collaborate on [not yet but if you want to teach me something i am willing]
 - 📫 How to reach me  
 
 <!---
